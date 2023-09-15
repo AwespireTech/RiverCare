@@ -1,0 +1,9 @@
+[submodule "InterfaceForCare-Frontend"]
+	path = frontend
+	url = git@github.com:AwespireTech/InterfaceForCare-Frontend.git
+[submodule "InterfaceForCare-Backend"]
+	path = backend
+	url = git@github.com:AwespireTech/InterfaceForCare-Backend.git
+[submodule "InterfaceForCare-SmartContracts"]
+	path = smart-contracts
+	url = git@github.com:AwespireTech/InterfaceForCare-SmartContracts.git
