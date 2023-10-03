@@ -4,6 +4,9 @@
 [submodule "InterfaceForCare-Backend"]
 	path = backend
 	url = git@github.com:AwespireTech/InterfaceForCare-Backend.git
+[submodule "InterfaceForCare-Indexer"]
+	path = indexer
+	url = git@github.com:AwespireTech/InterfaceForCare-Indexer.git
 [submodule "InterfaceForCare-SmartContracts"]
 	path = smart-contracts
 	url = git@github.com:AwespireTech/InterfaceForCare-SmartContracts.git
