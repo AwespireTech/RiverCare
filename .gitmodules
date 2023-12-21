@@ -1,12 +1,20 @@
-[submodule "InterfaceForCare-Frontend"]
+[submodule "RiverCare-Frontend"]
 	path = frontend
-	url = git@github.com:AwespireTech/InterfaceForCare-Frontend.git
-[submodule "InterfaceForCare-Backend"]
+	url = git@github.com:AwespireTech/RiverCare-Frontend.git
+	branch = main
+[submodule "RiverCare-Backend"]
 	path = backend
-	url = git@github.com:AwespireTech/InterfaceForCare-Backend.git
-[submodule "InterfaceForCare-Indexer"]
-	path = indexer
-	url = git@github.com:AwespireTech/InterfaceForCare-Indexer.git
-[submodule "InterfaceForCare-SmartContracts"]
+	url = git@github.com:AwespireTech/RiverCare-Backend.git
+	branch = main
+[submodule "RiverCare-SmartContracts"]
 	path = smart-contracts
-	url = git@github.com:AwespireTech/InterfaceForCare-SmartContracts.git
+	url = git@github.com:AwespireTech/RiverCare-SmartContracts.git
+	branch = main
+[submodule "storyteller"]
+	path = storyteller
+	url = git@github.com:AwespireTech/river-storyteller.git
+	branch = main
+[submodule "indexer"]
+	path = indexer
+	url = git@github.com:AwespireTech/RiverCare-Indexer.git
+	branch = main
