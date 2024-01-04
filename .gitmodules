@@ -10,11 +10,11 @@
 	path = smart-contracts
 	url = git@github.com:AwespireTech/RiverCare-SmartContracts.git
 	branch = main
-[submodule "storyteller"]
+[submodule "RiverCare-Storyteller"]
 	path = storyteller
 	url = git@github.com:AwespireTech/river-storyteller.git
 	branch = main
-[submodule "indexer"]
+[submodule "RiverCare-Indexer"]
 	path = indexer
 	url = git@github.com:AwespireTech/RiverCare-Indexer.git
 	branch = main
